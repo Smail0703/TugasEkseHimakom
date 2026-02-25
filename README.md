@@ -4,7 +4,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-> **🌐 Live Demo:** []
+> **🌐 Live Demo:** [https://tugas-ekse-himakom-89nixw9r1-smail0703s-projects.vercel.app/portofolio]
 
 Website portofolio personal yang dibangun menggunakan *modern frontend stack*. Proyek ini dirancang untuk merepresentasikan identitas diri, keterampilan teknis, serta mendokumentasikan hasil penugasan terstruktur dan pengalaman organisasi kemahasiswaan selama menempuh studi di **Jurusan Teknik Komputer dan Informatika (JTK), Politeknik Negeri Bandung**.
 
