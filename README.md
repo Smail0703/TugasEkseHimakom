@@ -47,7 +47,7 @@ Jika Anda ingin menjalankan proyek ini di komputer lokal, ikuti langkah-langkah 
 
 ### 1. Kloning Repositori
 ```bash
-git clone https://github.com/[USERNAME_GITHUB_ANDA]/portofolio-web.git
+git clone https://github.com/Smail0703/TugasEkseHimakom
 cd portofolio-web
 ```
 
